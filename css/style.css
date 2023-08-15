@@ -1,0 +1,139 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+:root{
+	--color-textos:#838383;
+	--color-primario:#1379e7;
+	--color-titulos:#1a1a1a;
+	--fondo-footer:#efefef;
+	--color-footer:#6d6d6d;
+}
+body{
+	font-size: 15px;
+	color: var(--color-textos);
+	font-weight: 400;
+	line-height: 1.7;
+	font-family: 'Poppins', sans-serif;
+}
+.titulos{
+	font-size: 30px;
+	color: var(--color-titulos);
+	font-weight: 500;
+}
+
+h1{
+	color: var(--color-primario);
+	font-size: 50px;
+	font-weight: bolder;
+}
+
+#crypto{
+	text-align: left;
+	padding-bottom: 20%;
+	padding-top: 25%;
+}
+
+.btn btn-primary{
+	border-radius: 0px;
+	padding: 10%;
+	
+}
+
+header{
+	background-color: #fff;
+	padding: 15px 0;
+	border-bottom: 1px solid #eee;
+}
+footer{
+	text-align: center;
+	padding: 20px 0;
+	color: var(--color-footer);
+}
+footer #footer-sponsors{
+	color: #fff;
+}
+
+.section{
+	padding: 8% 0;
+}
+
+#hero{
+	background-image: url("../img/hero.jpg");
+	background-size: cover;
+	text-align: center;
+}
+
+#hero h3{
+ 	padding: 5% 0;
+}
+
+#meet h2{
+	font-weight: bolder;
+}
+
+#meet i{
+	color: var(--color-primario);
+	padding-right: 2%;
+}
+
+#privacy h2{
+	font-weight: bolder;
+}
+
+
+#privacy img{
+	padding: 1% 1%;
+}
+
+
+#team h2{
+	text-align: center;
+	font-size: 100px;
+	font-weight: bolder;
+	padding-bottom: 2%;
+}
+
+#team h3{
+	font-weight: bolder;
+	font-size: 25px;
+	padding-top: 5%;
+}
+
+#footer-sponsors h2{
+	font-weight: bolder;
+	font-size: 14px;
+	
+}
+
+#footer-sponsors h2{
+	font-weight: bolder;
+	font-size: 14px;
+	
+}
+
+#footer-sponsors h4{
+	font-size: 14px;
+	padding-bottom: 1%;
+	
+}
+
+#copyright{
+	background-color: var(--color-footer);
+	padding: 1%;
+}
+
+#copyright p{
+	color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
